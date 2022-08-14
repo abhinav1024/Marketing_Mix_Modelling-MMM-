@@ -1,4 +1,4 @@
-# Marketing_Mix_Modelling (MMM)
+# Marketing Mix Modelling (MMM) Project
 _A Marketing Mix Modelling project for an E-Commerce company_
 
 ## Business Problem Statement
