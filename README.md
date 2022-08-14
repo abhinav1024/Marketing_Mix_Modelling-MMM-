@@ -27,3 +27,6 @@ channel on revenue
 Spends - Recommendation to allocate the
 marketing budget to gain the
 highest outcome
+
+
+All the relevant data sets can be downloaded from here - https://drive.google.com/drive/folders/1LMU-jl0DgV4qcQKuO9P-R9Asd1_pexmV
