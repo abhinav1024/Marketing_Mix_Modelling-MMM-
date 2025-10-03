@@ -3,8 +3,8 @@ _A Marketing Mix Modelling project for an E-Commerce company_
 
 ## Business Problem Statement
 To build a
-M arket M ix M odel for
-ElecKart (an e commerce firm based
+Market Mix Model for
+ElecKart (an e-commerce firm based
 out of Ontario, Canada) for 3 product
 sub categories Camera Accessory,
 Gaming Accessory and Home Audio
